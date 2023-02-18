@@ -7,7 +7,8 @@ In this system, after the car is detected by the MTCNN network, its depth is est
 
 
 ## Training
-
+The CCPD2020 dataset has been used to train the MTCCN network.
+Also, the dataset generated on 10,000 of CCPD images has been used to train the MLP network.
 
 ## Results
 samples of 1st stage detections
