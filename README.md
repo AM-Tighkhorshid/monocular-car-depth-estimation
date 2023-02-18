@@ -1,5 +1,5 @@
 # monocular-car-depth-estimation
-
+In this system, after the car is detected by the MTCNN network, its depth is estimated based on the license plate box coordinates using an MLP network.
 
 
 ![depth estimation (2)](https://user-images.githubusercontent.com/105539041/183407658-67a2d25b-5307-4919-a4ed-4ad3343dc48a.jpg)
